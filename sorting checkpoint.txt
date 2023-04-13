@@ -17,3 +17,4 @@ BEGIN
     WHILE (j >= 0 && A[j] < numtoinsert) DO
          A[j+1]=numtoinsert
     END_WHILE
+END
